@@ -8,4 +8,101 @@ I've been a software engineering professional since 2010, with experience primar
 |===
 | | I Have Experience In | I'd Like to Learn More Of
 
+| Programming Languages 
+a|
+    * Python
+    * Rust
+    * SQL
+    * Bash
+    * C
+    * C#
+a|
+    * Go
+    * Elm
+    * Javascript
+    * Typescript
+
+| Web Technologies & Frameworks
+a|
+    * REST
+    * Flask
+    * FastAPI
+    * AWS Chalice
+    * Jinja
+    * JSON
+    * TOML
+    * Django
+    * HTML
+    * nginx
+    * Apache Server
+a|
+    * GraphQL
+    * React
+    * React Native
+    * Node.js
+
+| Data Technologies
+a|
+    * Pandas
+    * Numpy
+    * MySQL
+    * Oracle
+    * SQL Server
+    * Sqlite
+    * Postgres
+    * MongoDB
+    * AWS RDS
+    * AWS DynamoDB
+    * Azure Aurora
+a|
+    * Snowflake
+    * Cassandra
+    * Solr
+    * Redis
+
+| Operating Systems & Infrastructure
+a|
+    * Ubuntu
+    * Debian
+    * Red Hat
+    * CentOS
+    * Windows
+    * MacOS
+a|
+    * Kubernetes
+
+| Development Tools
+a|
+    * Git
+    * Mercurial
+    * SVN
+    * Postman
+    * pytest
+a|
+
+| Cloud & Serverless
+a|
+    * Terraform
+    * AWS CDK
+    * AWS Lambda
+    * AWS Step Functions
+    * AWS S3
+    * AWS SageMaker
+    * Azure Functions
+    * Azure Web Apps
+    * Azure ML Workspaces
+a|
+    * Azure Logic Apps
+    * Google Cloud
+
+| DevOps & Automation
+a|
+    * Ansible
+    * Jenkins
+    * Puppet
+a|
+    * Airflow
+    * RabbitMQ
+    * Celery
+
 |===
