@@ -1,0 +1,11 @@
+= Mark LeMoine
+
+I've been a software engineering professional since 2010, with experience primarily in software development, as well as operations and system administration. I love writing code I'm proud of, and I thoroughly enjoy building small pieces which eventually combine to form grand projects. In addition, I have a fondness for code refactoring, testing, and design, and I'm always on the lookout for new technologies and programming languages to learn and grow.
+
+== Skills
+
+[cols="h,1,1"]
+|===
+| | I Have Experience In | I'd Like to Learn More Of
+
+|===
